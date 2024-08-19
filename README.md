@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hii, welcome to my profile 💙
 
-<!--
-**anacarlassilva/anacarlassilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ana ⭐
 
-Here are some ideas to get you started:
+-
+-
+-eu estou estudando na alura
+-procuro um desenvolvimento pessoal e profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você pode entrar em contato comigo: 📧
+
+email: aninhassilva797@gmail.com
+ig: ykvslv
